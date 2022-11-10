@@ -1,7 +1,6 @@
 # Subscription Blogging App: Thoughts for iOS
 
 <!-- ![Thoughts iOS Header]() -->
-<img width = "800" heigth = "auto" src = "https://github.com/hi-malik/Blogging-iOS-APP/blob/main/header.png"/>
 
 ## 1. Overview
 
